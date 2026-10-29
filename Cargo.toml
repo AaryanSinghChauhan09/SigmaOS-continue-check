@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos-continue-check"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Project"]
+description = "SigmaOS Continue-Check transaction checkpoint and state resumption utility"
+license = "GPL-3.0"
+
+[dependencies]
