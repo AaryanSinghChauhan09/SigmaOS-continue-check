@@ -7,3 +7,7 @@ description = "SigmaOS Continue-Check transaction checkpoint and state resumptio
 license = "GPL-3.0"
 
 [dependencies]
+
+[lib]
+name = "sigmaos_continue_check"
+path = "src/lib.rs"
