@@ -3,12 +3,12 @@ name = "SigmaOS-continue-check"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "continue-check component"
+description = "continue check"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
